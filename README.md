@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Louis He
 - 🔭 I’m currently working on GuangZhou,China
-- 🌱 I’m currently learning  kubernetes，Golang，devops
+- 🌱 I’m currently learning  Kubernetes，Golang，DevOps
 - 📫 How to reach me: 964287149@qq.com
 - 📖 blog：https://www.cnblogs.com/Dev0ps/
 

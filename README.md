@@ -15,12 +15,9 @@ https://blogs.dropbox.com/tech/Dropbox 技术博客
 
 https://code.fb.comFacebook 技术博客
 
-
-http://jm.taobao.org 淘宝中间件团队
-
 https://tech.meituan.com 美团技术博客
 
-http://blogs.360.cn360 技术博客
+http://blogs.360.cn 360技术博客
 
 https://xiaomi-info.github.io 小米信息部技术团队
 				
